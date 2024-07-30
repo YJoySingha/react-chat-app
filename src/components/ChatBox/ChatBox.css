@@ -50,6 +50,7 @@ background: linear-gradient(98.63deg, #24e4f0 0%, #358ff9 100%);
   background: white;
   display: flex;
   justify-content: space-between;
+  /* flex: '2 1'; */
   height: 3.5rem;
   align-items: center;
   gap: 1rem;
